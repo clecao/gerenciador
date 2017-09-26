@@ -1,4 +1,4 @@
-package br.senac.gerenciador.model;
+package br.senac.rn.gerenciador.model;
 
 import java.util.Objects;
 import java.util.logging.Logger;

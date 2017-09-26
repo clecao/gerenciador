@@ -1,7 +1,7 @@
 
 package br.senac.rn.gerenciador.dao;
 
-import br.senac.gerenciador.model.Empresa;
+import br.senac.rn.gerenciador.model.Empresa;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
